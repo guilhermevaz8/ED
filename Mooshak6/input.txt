@@ -1,0 +1,6 @@
+3 2
+4
+pedro 1
+miguel 2
+helder 5
+maria 1
